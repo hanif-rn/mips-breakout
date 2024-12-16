@@ -1,8 +1,8 @@
 ################ CSC258H1F Fall 2022 Assembly Final Project ##################
 # This file contains our implementation of Breakout.
 #
-# Student 1: Hanif Rizky Noegroho, 1007680742
-# Student 2: Poorvi Sharma, 1006145146
+# Student 1: Hanif Rizky Noegroho
+# Student 2: Redacted
 ######################## Bitmap Display Configuration ########################
 # - Unit width in pixels:       8
 # - Unit height in pixels:      8
